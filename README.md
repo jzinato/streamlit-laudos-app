@@ -1,6 +1,14 @@
 
-# App de Laudos com Seções Completas
+# App de Laudos com Inteligência Clínica
 
-Geração de relatórios laboratoriais estruturados por seções clínicas, pronto para uso com Supabase.
+Organização automática de laudos por seções:
+- Bioquímica
+- Hematologia
+- Hormônios
+- Vitaminas e Metabolismo Mineral
+- Urina Tipo I
+- Outros
+
+Base de palavras-chave clínicas ampliada, filtragem de ruídos, classificação automática.
 
 Desenvolvido para Dr. João Batista Zinato – Nefrologia.
