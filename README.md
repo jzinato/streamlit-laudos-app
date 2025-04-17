@@ -1,12 +1,6 @@
 
 # App de Laudos com Seções Completas
 
-Relatórios organizados por:
-- Bioquímica
-- Hematologia
-- Hormônios
-- Vitaminas e Metabolismo Mineral
-- Urina Tipo I
-- Outros
+Geração de relatórios laboratoriais estruturados por seções clínicas, pronto para uso com Supabase.
 
 Desenvolvido para Dr. João Batista Zinato – Nefrologia.
