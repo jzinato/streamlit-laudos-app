@@ -1,5 +1,6 @@
 
-# Streamlit Laudos com Supabase (Atualizado)
+# App de Laudos com Seções
 
-Aplicação médica para upload, extração e salvamento de laudos em PDF.
-Corrigido para suportar textos extensos. Preparado para o Supabase.
+Geração automática de relatórios laboratoriais por seções (Bioquímica, Hematologia), pronto para PEP.
+
+Desenvolvido para Dr. João Batista Zinato – Nefrologia.
