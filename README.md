@@ -1,11 +1,12 @@
 
-# App de Laudos por Seções (Completo)
+# App de Laudos com Seções Completas
 
-Geração automática de relatórios laboratoriais organizados por seções:
+Relatórios organizados por:
 - Bioquímica
 - Hematologia
 - Hormônios
 - Vitaminas e Metabolismo Mineral
 - Urina Tipo I
+- Outros
 
 Desenvolvido para Dr. João Batista Zinato – Nefrologia.
